@@ -540,7 +540,6 @@ span{
 
 /* media */
 
-
 @media screen and (max-width: 992px){
 :root{
     font-size: 16px;
